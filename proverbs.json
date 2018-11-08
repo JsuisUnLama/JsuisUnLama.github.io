@@ -1,0 +1,231 @@
+{
+	"Season" : {
+		"Spring" : {
+			"Catchphrase" : "The sleeping flowers blossoms anew as does the love upon the first rays of sunshine.",
+			"Proverbs" : [
+				{
+					"Content" : "\" Spring is nature’s way of saying, \"Let’s party!\". \"",
+					"Author" : "Robin Williams",
+					"From" : ""
+				},
+				{
+					"Content" : "\" She turned to the sunlight</br> And shook her yellow head,</br> And whispered to her neighbor:</br> \"Winter is dead.\" \"",
+					"Author" : "A.A. Milne",
+					"From" : "When We Were Very Young"
+				},
+				{
+					"Content" : "\" Spring is the time of plans and projects. \"" ,
+					"Author" : "Leo Tolstoy",
+					"From" : "Anna Karenina"				
+				},
+				{
+					"Content" : "\" What a strange thing!</br> to be alive</br> beneath cherry blossoms. \"" ,
+					"Author" : "Kobayashi Issa" ,
+					"From" : "Poems"
+				},
+				{
+					"Content" : "\" And the Spring arose on the garden fair,</br> Like the Spirit of Love felt everywhere;</br> And each flower and herb on Earth's dark breast</br> Rose from the dreams of its wintry rest. \"" ,
+					"Author" : " Percy Bysshe Shelley" ,
+					"From" : "The Complete Poems"
+				},
+				{
+					"Content" : "\" Spring work is going on with joyful enthusiasm. \"" ,
+					"Author" : "John Muir" ,
+					"From" : " The Wilderness World of John Muir "	
+				},
+				{
+					"Content" : "\" Dead my old fine hopes</br> And dry my dreaming but still...</br> Iris, blue each spring \"" ,
+					"Author" : "Shushiki",
+					"From" : "Japanese Haiku"	
+				},
+				{
+					"Content" : "\" April's air stirs in</br> Willow-leaves...a butterfly</br> Floats and balances \"" ,
+					"Author" : "Bashō" ,
+					"From" : "Japanese Haiku"	
+				},
+				{
+					"Content" : "\" When there is nothing left to learn from the winter, move on to the spring! \"" ,
+					"Author" : "Mehmet Murat ildan" ,
+					"From" : ""	
+				},
+				{
+					"Content" : "\" The point is that the pleasures of spring are available to everybody, and cost nothing. \"" ,
+					"Author" : "George Orwell" ,
+					"From" : "Some Thoughts on the Common Toad"	
+				}
+				
+			]
+		},
+
+		"Summer" : {
+			"Catchphrase" : "The sun gets brighter and its placid warmth wraps around our hearts reassuringly.",
+			"Proverbs" : [
+				{
+					"Content" : "\" One swallow does not make a summer, neither does one fine day; similarly one day or brief time of happiness does not make a person entirely happy. \"" ,
+					"Author" : " Aristotle",
+					"From" : "The Nicomachean Ethics"
+				},
+				{
+					"Content" : "\" Green was the silence, wet was the light,</br> the month of June trembled like a butterfly. \"",
+					"Author" : "Pablo Neruda" ,
+					"From" : "100 Love Sonnets"
+				},
+				{
+					"Content" : "\" It was June, and the world smelled of roses. The sunshine was like powdered gold over the grassy hillside. \"" ,
+					"Author" : "Maud Hart Lovelace",
+					"From" : "Betsy-Tacy and Tib"				
+				},
+				{
+					"Content" : "\" Summertime is always the best of what might be. \"" ,
+					"Author" : "Charles Bowden",
+					"From" : ""
+				},
+				{
+					"Content" : "\" Summer's lease hath all too short a date. \"" ,
+					"Author" : "William Shakespeare",
+					"From" : "Sonnets"
+				},
+				{
+					"Content" : "\" I love how summer just wraps it’s arms around you like a warm blanket. \"",
+					"Author" : "Kellie Elmore",
+					"From" : ""	
+				},
+				{
+					"Content" : "\" Again and again, the cicada’s untiring cry pierced the sultry summer air like a needle at work on thick cotton cloth. \"" ,
+					"Author" : " Yukio Mishima",
+					"From" : "Runaway Horses"	
+				},
+				{
+					"Content" : "\" Sun is shining. Weather is sweet. Make you wanna move your dancing feet. \"",
+					"Author" : "Bob Marley",
+					"From" : ""
+				},
+				{
+					"Content" : "\" A perfect summer day is when the sun is shining, the breeze is blowing, the birds are singing, and the lawn mower is broken. \"",
+					"Author" : "James Dent",
+					"From" : ""
+				},
+				{
+					"Content" : "\" No one needs Independence. We all just need tea and air conditioners. \"",
+					"Author" : "Michelle Franklin ",
+					"From" : ""
+				}
+				
+			]
+		},
+
+		"Fall" : {
+			"Catchphrase" : "The trees adorn beautiful coppery leaves while the cold slowly begins to spread.",
+			"Proverbs" : [
+				{
+					"Content" : "\" Autumn seemed to arrive suddenly that year. The morning of the first September was crisp and golden as an apple. \"",
+					"Author" :  "J.K. Rowling",
+					"From" : "Harry Potter and the Deathly Hallows"
+				},
+				{
+					"Content" : "\" The tints of autumn... a mighty flower garden blossoming under the spell of the enchanter, frost. \"",
+					"Author" : " John Greenleaf Whittier",
+					"From" : ""
+				},
+				{
+					"Content" : "\" Do you remember, the 21st night of September ? \"",
+					"Author" : "Earth, Wind and Fire",
+					"From" : "September"				
+				},
+				{
+					"Content" : "\" Autumn is a second spring when every leaf is a flower. \"",
+					"Author" : "Albert Camus",
+					"From" : ""				
+				},
+				{
+					"Content" : "\" It looked like the world was covered in a cobbler crust of brown sugar and cinnamon \"",
+					"Author" : "Sarah Addison Allen",
+					"From" : "First Frost"				
+				},
+				{
+					"Content" : "\" Listen! The wind is rising, and the air is wild with leaves,</br> We have had our summer evenings, now for October eves! \"",
+					"Author" : "Humbert Wolfe",
+					"From" : ""				
+				},
+				{
+					"Content" : "\" On a bare branch a crow is perched - autumn evening \"",
+					"Author" : "Bashō",
+					"From" : ""				
+				},
+				{
+					"Content" : "\" \"I love autumn\", Emily said to me. \"It wins you over with its mute appeal to sympathy for its decay.\" \"",
+					"Author" : "Nicholas Sparks",
+					"From" : "Two By Two"				
+				},
+				{
+					"Content" : "\" Autumn that year painted the countryside in vivid shades of scarlet, saffron and russet, and the days were clear and crisp under harvest skies. \"",
+					"Author" : "Sharon Kay Penman",
+					"From" : "Time and Chance"				
+				},
+				{
+					"Content" : "\" When the autumn meets the tranquillity, there you can see the King of the Sceneries! \"",
+					"Author" : "Mehmet Murat ildan ",
+					"From" : ""				
+				}
+		
+			]
+		},
+
+		"Winter" : {
+			"Catchphrase" : "The silvery cold travels while we celebrate with others the freedom of our souls",
+			"Proverbs" : [
+				{
+					"Content" : "\" Nothing burns like the cold. \"",
+					"Author" : "George R.R. Martin",
+					"From" : "A Game of Thrones"
+				},
+				{
+					"Content" : "\" What good is the warmth of summer, without the cold of winter to give it sweetness. \"",
+					"Author" : "John Steinbeck",
+					"From" : "Travels with Charley: In Search of America"				
+				},
+				{
+					"Content" : "\" A lot of people like snow. I find it to be an unnecessary freezing of water. \"",
+					"Author" : "Carl Reiner ",
+					"From" : ""				
+				},
+				{
+					"Content" : "\" In the winter she curls up around a good book and dreams away the cold. \"",
+					"Author" : "Ben Aaronovitch",
+					"From" : "Broken Homes"				
+				},
+				{
+					"Content" : "\" Snow flurries began to fall and they swirled around people's legs like house cats. It was magical, this snow globe world. \"",
+					"Author" : "Sarah Addison Allen",
+					"From" : "The Sugar Queen"				
+				},
+				{
+					"Content" : "\" Winter is nature's way of saying, \"Up yours.\" \"",
+					"Author" : "Robert Byrne",
+					"From" : ""				
+				},
+				{
+					"Content" : "\" Winter changes into stone the water of heaven and the heart of man. \"",
+					"Author" : "Victor Hugo",
+					"From" : ""				
+				},
+				{
+					"Content" : "\" It seems like everything sleeps in winter, but it's really a time of renewal and reflection. \"",
+					"Author" : "Elizabeth Camden",
+					"From" : "Until the Dawn"				
+				},
+				{
+					"Content" : "\" The wastes of snow on the hill were ghostly in the moonlight.</br> The stars were piercingly bright. \"",
+					"Author" : "Maud Hart Lovelace",
+					"From" : "Betsy and Tacy Go Downtown"				
+				},
+				{
+					"Content" : "\" Love has different shape, like this falling snow in winter \"",
+					"Author" : "Rizki De",
+					"From" : "Endless Winter in Korea"				
+				}
+				
+			]
+		}
+	}	
+}
