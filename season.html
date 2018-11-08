@@ -264,8 +264,6 @@
 			promise2 = requestJson('proverbs.json');
 
 			Promise.all([promise1, promise2]).then(function(values) {
-				console.log(values[0]);
-				console.log(values[1]);
 				var respAPI  = (values[0]['latitude'] >= 0 ? 'N' : 'S'); 
 				var respJSON = values[1];
 				seasonalPageGen(respAPI,respJSON);
