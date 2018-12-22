@@ -206,7 +206,7 @@
 			    	
 			    } else if (today >= firstWinter || today < firstSpring) {
 			    	Array.from(document.getElementsByClassName("season_name_span")).forEach(function(e){
-			    			e.innerHTML = (hemi === 'N' ? "Winter" : "Summer");
+			    			e.innerHTML = (hemi === 'N' ? " Winter" : " Summer");
 			    		});
 
 			    	document.getElementById("season_catchphrase").innerHTML = pvbs['Season'][(hemi === 'N' ? 'Winter' : 'Summer')]['Catchphrase'];
