@@ -159,7 +159,7 @@
 		    			document.getElementById("proverbs").appendChild(elemDiv);
 		    		});	
 			    	
-			        document.body.style.backgroundImage = "url('img/" + (hemi === 'N' ? "spring/spring" : "fall/fall") + Math.floor(Math.random() * maxSpring + 1) + ".jpg')";
+			        document.body.style.backgroundImage = "url('img/" + (hemi === 'N' ? "spring/spring" : "fall/fall") + Math.floor(Math.random() * (hemi === 'N' ? maxSpring : maxFall) + 1) + ".jpg')";
 
 			        
 			    } else if (today >= firstSummer && today < firstFall) {
@@ -181,7 +181,7 @@
 		    			document.getElementById("proverbs").appendChild(elemDiv);
 		    		});
 
-			        document.body.style.backgroundImage = "url('img/" + (hemi === 'N' ? "summer/summer" : "winter/winter") + Math.floor(Math.random() * maxSummer + 1) + ".jpg')";
+			        document.body.style.backgroundImage = "url('img/" + (hemi === 'N' ? "summer/summer" : "winter/winter") + Math.floor(Math.random() * (hemi === 'N' ? maxSummer : maxWinter) + 1) + ".jpg')";
 
 			    } else if (today >= firstFall && today < firstWinter) {
 			    	Array.from(document.getElementsByClassName("season_name_span")).forEach(function(e){
@@ -202,7 +202,7 @@
 		    			document.getElementById("proverbs").appendChild(elemDiv);
 		    		});
 
-			        document.body.style.backgroundImage = "url('img/" + (hemi === 'N' ? "fall/fall" : "spring/spring") + Math.floor(Math.random() * maxFall + 1) + ".jpg')";
+			        document.body.style.backgroundImage = "url('img/" + (hemi === 'N' ? "fall/fall" : "spring/spring") + Math.floor(Math.random() * (hemi === 'N' ? maxFall : maxSpring) + 1) + ".jpg')";
 			    	
 			    } else if (today >= firstWinter || today < firstSpring) {
 			    	Array.from(document.getElementsByClassName("season_name_span")).forEach(function(e){
@@ -223,7 +223,7 @@
 		    			document.getElementById("proverbs").appendChild(elemDiv);
 		    		});
 				    
-				document.body.style.backgroundImage = "url('img/" + (hemi === 'N' ? "winter/winter" : "summer/summer") + Math.floor(Math.random() * maxFall + 1) + ".jpg')";
+				document.body.style.backgroundImage = "url('img/" + (hemi === 'N' ? "winter/winter" : "summer/summer") + Math.floor(Math.random() * (hemi === 'N' ? maxWinter : maxSummer) + 1) + ".jpg')";
 			    }
 			    
 			    var proverbs = Array.from(document.getElementsByClassName("proverb"));
